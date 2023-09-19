@@ -1,6 +1,6 @@
 import React from "react";
 //import { analyicsdata } from "../Data/DataList";
-import laptop from "../../Components/assests/laptop.jpg";
+import laptop from "../../assests/laptop.jpg";
 
 const Analytics = () => {
   return (
